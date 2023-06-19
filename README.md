@@ -7,4 +7,4 @@ Project page: https://virajprabhu.com/lance-web/
 
 [![Paper page:](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://huggingface.co/papers/2305.19164)
 
-Code and datasets coming soon – stay tuned!
+Code and datasets coming soon (ETA: first week of July) – stay tuned!
